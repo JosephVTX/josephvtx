@@ -76,6 +76,6 @@
 <div> 
  
 
-  ![Snake animation](https://github.com/JosephVTX/JosephVTX/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/JosephVTX?tab=repositories"><img src="https://github.com/JosephVTX/JosephVTX/blob/output/github-contribution-grid-snake.svg"></a>
 
 </div>
