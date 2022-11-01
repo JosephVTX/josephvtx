@@ -24,7 +24,7 @@
  <img align="center" alt="Illustrator" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
  <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
  <img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/icons8-wordpress.svg">
- <img align="center" alt="Autocad" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/autocad-icon.svg">
+ 
   
 </div>
  
