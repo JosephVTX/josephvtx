@@ -23,6 +23,7 @@
  <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
  <img align="center" alt="Illustrator" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
  <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+ <img align="center" alt="Wordpress" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg">
   
 </div>
  
