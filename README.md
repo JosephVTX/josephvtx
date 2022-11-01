@@ -1,9 +1,11 @@
 ## Bienvenidos a mi Perfil! 😄
 
  <div>
-   <a href="https://github.com/JosephVTX">
-    ![JosephVTX GitHub stats](https://github-readme-stats.vercel.app/api?username=josephvtx&theme=tokyonight) <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephvtx&layout=compact&langs_count=6&theme=tokyonight"/>
+   
+ <picture>
+   <img src="https://github-readme-stats.vercel.app/api?username=josephvtx&theme=tokyonight&count_private=true">
+ </picture>
+   
 </div>
 
 <div style="display: inline_block"><br>
