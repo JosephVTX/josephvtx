@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="RandolphCarter.gif" width="915" align="center">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 
 <h2>Glad to see you here!</h2>
