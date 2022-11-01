@@ -49,7 +49,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-   <img align="center" alt="Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/nextjs-icon.svg">
+   <img align="center" style="background: #fff;" alt="Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/nextjs-icon.svg">
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/nodejs-icon.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667">
