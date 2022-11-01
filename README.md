@@ -23,7 +23,7 @@
   
 </div>
  
- Pinned
+ <h2>Pinned</h2>
  
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephvtx&repo=pizzeria-lima&theme=tokyonight">
 
