@@ -1,5 +1,5 @@
 <div align="center">
-  ![](wallpaper.gif)
+  ![](https://raw.githubusercontent.com/JosephVTX/josephvtx/main/wallpaper.gif)
 </div>
 
 
