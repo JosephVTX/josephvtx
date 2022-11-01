@@ -1,5 +1,24 @@
 ## Welcome to my profile! 😄
 
+<h2>Glad to see you here!</h2>
+
+- 🔭 I'm currently doing personal projects
+
+- 🌱 I am currently learning Java with BDD,TDD and E2E
+
+- 👯 I'm looking to collaborate on FrontEnd WebApps and UX Design Process
+
+- 🤝 Looking for help with my Blog 🤙
+
+- 👨‍💻 All my projects are available at https://portafolio.app/
+
+- 📝 I regularly write articles on medium
+
+- 💬 Ask me about YOU
+
+- 📫 How to contact me jvcallupe69@gmail.com
+
+- ⚡ Fun fact vim user without linux env 😅
  <div>
    
  <div>
