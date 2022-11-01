@@ -1,6 +1,7 @@
 <div align="center">
   
-  ![wallpaper](https://user-images.githubusercontent.com/91026290/199278755-c63c9e01-1bd5-4e68-8018-18ddffc0de25.gif)
+  ![wallpaper](https://user-images.githubusercontent.com/91026290/199279021-1a1b3554-7aa0-4db4-953f-17a6d50cf540.svg)
+
 
   
 </div>
