@@ -1,5 +1,8 @@
 <div align="center">
-  ![](https://raw.githubusercontent.com/JosephVTX/josephvtx/main/wallpaper.gif)
+  
+  ![wallpaper](https://user-images.githubusercontent.com/91026290/199278755-c63c9e01-1bd5-4e68-8018-18ddffc0de25.gif)
+
+  
 </div>
 
 
