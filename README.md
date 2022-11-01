@@ -33,6 +33,7 @@
  
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephvtx&repo=pizzeria-lima&theme=tokyonight">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephvtx&repo=polleria-tori&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephvtx&repo=susy_creditos&theme=tokyonight">
 
 <div> 
  
