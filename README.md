@@ -3,7 +3,7 @@
  <div>
    
  <picture>
-   <img src="https://github-readme-stats.vercel.app/api?username=josephvtx&theme=tokyonight&count_private=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=josephvtx&theme=tokyonight">
  </picture>
    
 </div>
