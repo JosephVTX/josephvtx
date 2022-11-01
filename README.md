@@ -23,6 +23,9 @@
   
 </div>
  
+ Pinned
+ 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=josephvtx&repo=pizzeria-lima&theme=tokyonight">
 
 <div> 
  
