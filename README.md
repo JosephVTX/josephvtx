@@ -1,4 +1,4 @@
-## Welcome to my profile! 😄
+<h1 align="center">Hi 👋, I'm Joseph</h1>
 
 <h2>Glad to see you here!</h2>
 
