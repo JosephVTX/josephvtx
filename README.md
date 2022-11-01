@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="RandolphCarter.gif" width="915" align="center">
-</p>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Joseph</h1>
