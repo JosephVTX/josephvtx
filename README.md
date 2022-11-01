@@ -1,8 +1,7 @@
 <div align="center">
   
  
-![wallpaper](https://user-images.githubusercontent.com/91026290/199279083-9e86f1a4-8d87-41b9-b60c-798d520bb87b.gif)
-
+<a href="#"><img src="https://user-images.githubusercontent.com/91026290/199279083-9e86f1a4-8d87-41b9-b60c-798d520bb87b.gif"></a>
 
   
 </div>
