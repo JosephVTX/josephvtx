@@ -29,7 +29,7 @@
 
 - 🤝 Looking for help with my Blog 🤙
 
-- 👨‍💻 All my projects are available at https://portafolio.app/
+- 👨‍💻 All my projects are available at https://www.josephvega.dev/
 
 - 📝 I regularly write articles on medium
 
