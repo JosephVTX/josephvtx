@@ -23,7 +23,7 @@
 
 - 🔭 I'm currently doing personal projects
 
-- 🌱 I am currently learning Java with BDD,TDD and E2E
+- 🌱 I am currently learning Socket
 
 - 👯 I'm looking to collaborate on FrontEnd WebApps and UX Design Process
 
@@ -31,7 +31,7 @@
 
 - 👨‍💻 All my projects are available at https://www.josephvega.dev/
 
-- 📝 I regularly write articles on medium
+- 📝 Regularly carried out personal projects to improve my skills
 
 - 💬 Ask me about YOU
 
