@@ -41,8 +41,8 @@
  <div>
    
  <div>
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephvtx&layout=compact&theme=tokyonight"> <br>
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=josephvtx&theme=tokyonight&show_icons=true">
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephvtx&layout=compact&theme=tokyonight&count_private=true"> <br>
+   <img height="200" src="https://github-readme-stats.vercel.app/api?username=josephvtx&theme=tokyonight&show_icons=true&count_private=true">
    
  </div>
    
