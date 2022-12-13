@@ -76,6 +76,6 @@
 <div> 
  
 
-  <a href="https://github.com/JosephVTX?tab=repositories"><img src="https://github.com/JosephVTX/JosephVTX/blob/output/github-contribution-grid-snake.svg"></a>
+  <a href="https://github.com/JosephVTX?tab=repositories"><img src="https://raw.githubusercontent.com/JosephVTX/josephvtx/output/github-contribution-grid-snake-dark.svg"></a>
 
 </div>
