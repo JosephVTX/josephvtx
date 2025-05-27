@@ -6,76 +6,98 @@
   
 </div>
 
-
-<h1 align="center">Hi 👋, I'm Joseph</h1>
+<h1 align="center">¡Hola 👋, soy Joseph!</h1>
+<h3 align="center">Desarrollador Full Stack apasionado por crear experiencias web increíbles</h3>
 
 <div align="center">
 
-![React.js](https://img.shields.io/badge/react.js-%230073CF.svg?style=for-the-badge&logo=React&logoColor=blue&color=white)
-![Next.js](https://img.shields.io/badge/next.js-%230073CF.svg?style=for-the-badge&logo=Next.js&logoColor=white&color=000000)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%230073CF.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&color=06B6D4)
-![ChakraUI](https://img.shields.io/badge/CHAKRAUI-%230073CF.svg?style=for-the-badge&logo=CHAKRAUI&logoColor=white&color=blue)
-![Node.js](https://img.shields.io/badge/node.js-%230073CF.svg?style=for-the-badge&logo=Node.js&logoColor=white&color=339933)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
-<h2>Glad to see you here!</h2>
+---
 
-- 🔭 I'm currently doing personal projects
+<h2>🚀 Sobre mí</h2>
 
-- 🌱 I am currently learning Socket
+- 💻 **Desarrollador Full Stack** con 2 años de experiencia
+- 🔭 Actualmente trabajando en proyectos personales y profesionales
+- 🌱 Aprendiendo constantemente nuevas tecnologías web
+- 👯 Busco colaborar en aplicaciones web modernas y experiencias de usuario innovadoras
+- 🤝 Siempre dispuesto a ayudar y aprender de la comunidad
+- 🌐 Portafolio: **https://josephvega.tech/**
+- 📧 Contacto: **jvcallupe69@gmail.com**
+- ⚡ Dato curioso: Usuario de vim sin entorno Linux 😅
 
-- 👯 I'm looking to collaborate on FrontEnd WebApps and UX Design Process
+---
 
-- 🤝 Looking for help with my Blog 🤙
+<h2>🛠️ Tecnologías y Herramientas</h2>
 
-- 👨‍💻 All my projects are available at https://www.josephvega.dev/
+<div align="center">
 
-- 📝 Regularly carried out personal projects to improve my skills
+### Frontend
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+<img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" title="Next.js"/>
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 
-- 💬 Ask me about YOU
+### Backend
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
+<img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" title="Express.js"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>
 
-- 📫 How to contact me jvcallupe69@gmail.com
+### Base de Datos
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
 
-- ⚡ Fun fact vim user without linux env 😅
- <div>
-   
- <div>
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephvtx&layout=compact&theme=tokyonight&count_private=true"> <br>
+### Herramientas
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman"/>
+
+</div>
+
+---
+
+<h2>📊 Estadísticas de GitHub</h2>
+
+<div align="center">
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephvtx&layout=compact&theme=tokyonight&count_private=true&langs_count=8"> 
    <img height="200" src="https://github-readme-stats.vercel.app/api?username=josephvtx&theme=tokyonight&show_icons=true&count_private=true">
-   
- </div>
-   
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-   <img align="center" alt="Nextjs" height="30" width="46" src="https://raw.githubusercontent.com/JosephVTX/icons/main/nextjs-icon.svg">
- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/selenium-icon.svg">
- <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/nodejs-icon.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667">
- <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
- <img align="center" alt="Git" height="30" width="40" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
- <img align="center" alt="Photoshop" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
- <img align="center" alt="Illustrator" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg">
- <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
- <img align="center" alt="Wordpress" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/icons8-wordpress.svg">
- <img align="center" alt="Wix" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/wix-icon.svg">
- <img align="center" alt="Autocad" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/autocad-icon.svg">
- <img align="center" alt="Solidworks" height="40" width="40" src="https://raw.githubusercontent.com/JosephVTX/icons/main/solidwork-icon.svg">
-  
+---
+
+<h2>🔥 Actividad en GitHub</h2>
+
+<div align="center">
+  <a href="https://github.com/JosephVTX?tab=repositories">
+    <img src="https://raw.githubusercontent.com/JosephVTX/josephvtx/output/github-contribution-grid-snake-dark.svg">
+  </a>
 </div>
- 
 
+---
 
-<div> 
- 
+<h2>💬 Hablemos</h2>
 
-  <a href="https://github.com/JosephVTX?tab=repositories"><img src="https://raw.githubusercontent.com/JosephVTX/josephvtx/output/github-contribution-grid-snake-dark.svg"></a>
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-josephvega.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josephvega.tech/)
+[![Email](https://img.shields.io/badge/Email-jvcallupe69@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvcallupe69@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JosephVTX-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosephVTX)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ ¡No olvides dar una estrella a mis repositorios si te resultan útiles! ⭐</i>
 </div>
